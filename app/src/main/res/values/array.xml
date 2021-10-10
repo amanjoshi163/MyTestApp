@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="book_array">
+
+        <item>Book 1</item>
+        <item>Book 2</item>
+        <item>Book 3</item>
+
+    </array>
+
+</resources>
